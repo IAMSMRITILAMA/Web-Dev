@@ -1,6 +1,8 @@
 # Step 1 :  Create New Repository
 
-# Step 2 : Copy HTTPS or, SSH Web URL 'https://github.com/IAMSMRITILAMA/Web-Dev.git'
+# Step 2 : Copy HTTPS or, SSH Web URL 
+
+`'https://github.com/IAMSMRITILAMA/Web-Dev.git'`
 
 # Now, Git Command
 

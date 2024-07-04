@@ -4,13 +4,19 @@
 
 # Now, Git Command
 
-`git init`
-`git add .`
-`git commit -m "Commit Name"`
-`git status`
-`git branch -m main`
-`git remote add origin **HTTPS or SSH Link**`
-`git push -f origin main`
+1. `git init`
+
+2. `git add .`
+
+3. `git commit -m "Commit Name"`
+
+4. `git status`
+
+5. `git branch -m main`
+
+6. `git remote add origin **HTTPS or SSH Link**`
+
+7. `git push -f origin main`
 
 
 ## Author @IAMSMRITILAMA
